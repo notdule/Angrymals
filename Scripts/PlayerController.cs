@@ -10,7 +10,6 @@ public class PlayerController : MonoBehaviour
     public GameObject projectilePrefab;
 
 
-    // Update is called once per frame
     void Update()
     {
         // Check for left and right bounds
